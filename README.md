@@ -6,12 +6,13 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
 ### To use
-``` 1. git clone https://github.com/kennedy69/PyDDoS
+``` 
+1. git clone https://github.com/kennedy69/PyDDoS
 2. cd PYDDoS
 3. pip install figlet
 4. python DDoS.py
 5. Import Target IP
-6. Write Tarfer port
+6. Write Target port
 ```
 
 ### THIS FILE IS UNDER MIT LICENSE
