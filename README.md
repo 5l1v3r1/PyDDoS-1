@@ -19,7 +19,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 
 ### Any question? just contact me
-<br><a href="https://facebook.com/KENNEDYBYTE"><span style="color: #008000;"><b>DFacebook</b> </span> </a>
+<br><a href="https://facebook.com/KENNEDYBYTE"><span style="color: #008000;"><b>Facebook</b> </span> </a>
 <br><a href="https://instagram.com/frdy_an"><span style="color: #008000;"><b>Instagram</b> </span> </a>
 <br>E-Mail   :
 <br>ferdi.kennedy@protonmail.com
